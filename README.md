@@ -1,4 +1,4 @@
-Here's how you can write the instructions for installing and uninstalling Ubuntu WSL in `README.md` format:
+# Ubuntu WSL Installation and Uninstallation Guide
 
 ```markdown
 # Ubuntu WSL Installation and Uninstallation Guide

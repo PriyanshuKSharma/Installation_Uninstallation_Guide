@@ -14,7 +14,7 @@ This guide provides step-by-step instructions to install and uninstall Ubuntu on
 
 If WSL is not already enabled, follow these steps to enable it:
 
-1. Open **PowerShell** as Administrator and run:
+1. Open PowerShell as Administrator and run:
    ```bash
    wsl --install
    ```
@@ -84,4 +84,3 @@ This will list all installed distributions along with their WSL versions.
   ```
 
 For further details, refer to the official [WSL documentation](https://docs.microsoft.com/en-us/windows/wsl/).
-```

@@ -83,7 +83,7 @@ This will list all installed distributions along with their WSL versions.
   wsl --set-default-version 2
   ```
 
-## To add the installation via command line (cmd) to the readme file, you can insert this under the "Installation: Ubuntu on WSL" section:
+## Installation: Ubuntu on WSL
 
 ### Step 1: Install Ubuntu via Command Line
 

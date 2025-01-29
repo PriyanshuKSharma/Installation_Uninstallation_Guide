@@ -1,8 +1,5 @@
 # Ubuntu WSL Installation and Uninstallation Guide
 
-```markdown
-# Ubuntu WSL Installation and Uninstallation Guide
-
 This guide provides step-by-step instructions to install and uninstall Ubuntu on Windows Subsystem for Linux (WSL).
 
 ## Prerequisites

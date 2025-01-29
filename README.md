@@ -12,9 +12,10 @@ This guide provides step-by-step instructions to install and uninstall Ubuntu on
 If WSL is not already enabled, follow these steps to enable it:
 
 1. Open PowerShell as Administrator and run:
-   
-		```
-   wsl --install
+ 
+			```bash
+  wsl --install
+  ```
    
 
    This command will install the WSL feature, set WSL 2 as the default, and install a Linux distribution (Ubuntu by default).

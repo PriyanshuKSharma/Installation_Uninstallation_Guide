@@ -16,9 +16,8 @@ If WSL is not already enabled, follow these steps to enable it:
 ```bash
 wsl --install
 ```
-   
 
-   This command will install the WSL feature, set WSL 2 as the default, and install a Linux distribution (Ubuntu by default).
+This command will install the WSL feature, set WSL 2 as the default, and install a Linux distribution (Ubuntu by default).
 
 2. Restart your computer if prompted.
 
